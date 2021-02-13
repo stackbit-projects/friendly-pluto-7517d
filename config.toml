@@ -8,7 +8,7 @@ google_tag_manager_id = ""
 
   [params.homepage]
   show_call_box = false
-  hide_view_all_services = true
+  hide_view_all_services = false
 
   [params.logo]
   mobile = "images/logo/logo-mobile.svg"
