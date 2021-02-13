@@ -7,7 +7,7 @@ google_analytics_id = ""
 google_tag_manager_id = ""
 
   [params.homepage]
-  show_call_box = true
+  show_call_box = false
   hide_view_all_services = false
 
   [params.logo]
