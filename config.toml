@@ -27,7 +27,7 @@ google_tag_manager_id = ""
   summary_large_truncate = 120
 
   [params.footer]
-  copyright_text = "All copyrights reserved "
+  copyright_text = "All copyrights reserved 2021"
 
 [[menu.main]]
 name = "Services"
