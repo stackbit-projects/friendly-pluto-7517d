@@ -8,7 +8,6 @@ featured: false
 weight: 7
 promoted: false
 model: team
-image: images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg
 ---
 Raj Borborah is a technologist with an interest in finance. He has been investing in the stock market for the last 20 years while trying to figure out strategies for growing his personal wealth and generate regular income. In his journey he has explored many different kinds of financial instruments, learning their pitfalls through personal losses and wins. 
 
