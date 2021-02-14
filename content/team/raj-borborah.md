@@ -1,7 +1,7 @@
 ---
 title: Rajeev Borborah
 date: '2018-11-19T10:47:58+10:00'
-jobtitle: Graphic Designer
+jobtitle: CEO/Investment Manager
 linkedinurl: 'https://www.linkedin.com/in/rajborborah/'
 draft: false
 featured: false
