@@ -6,7 +6,7 @@ linkedinurl: 'https://www.linkedin.com/in/rajborborah/'
 draft: false
 featured: false
 weight: 7
-promoted: false
+promoted: true
 model: team
 image: images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg
 ---
