@@ -2,7 +2,7 @@
 title: Raj Borborah
 date: '2018-11-19T10:47:58+10:00'
 jobtitle: Graphic Designer
-linkedinurl: ''
+linkedinurl: 'https://www.linkedin.com/in/rajborborah/'
 Twitterhandle: lorem-ipsum
 draft: false
 featured: false
