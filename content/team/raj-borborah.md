@@ -1,5 +1,5 @@
 ---
-title: Raj Borborah
+title: Raj B
 date: '2018-11-19T10:47:58+10:00'
 jobtitle: CEO/Investment Manager
 linkedinurl: 'https://www.linkedin.com/in/rajborborah/'
