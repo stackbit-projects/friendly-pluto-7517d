@@ -3,7 +3,7 @@ title: Raj Borborah
 date: '2018-11-19T10:47:58+10:00'
 jobtitle: Graphic Designer
 linkedinurl: 'https://www.linkedin.com/in/rajborborah/'
-draft: true
+draft: false
 featured: false
 weight: 7
 promoted: false
