@@ -3,10 +3,5 @@
         "title": "My Account",
         "description": "Click here to check the status of your investments",
         "image": "images/features/noun_branding_1885335.svg"
-    },
-    {
-        "title": "Contact Us",
-        "description": "We stay up to date on the latest changes to the tax code.",
-        "image": "images/features/noun_3d modeling_1885342.svg"
     }
 ]
