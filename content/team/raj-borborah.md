@@ -10,7 +10,6 @@ promoted: false
 model: team
 image: images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg
 ---
+Raj Borborah is a technologist with an interest in finance. He has been investing in the stock market for the last 20 years while trying to figure out strategies for growing his personal wealth and generate regular income. In his journey he has explored many different kinds of financial instruments, learning their pitfalls through personal losses and wins. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Raj stated Sinvesto Corporation as a way to scale out the strategies he has developed for growing wealth and income and provide opportunities to other accredited investors who may want to gain from his experience. Sinvesto is Raj's way combining his professional technology skills and his interest into finance to develop investment strategies.
