@@ -3,7 +3,7 @@ title: Investment Pathways
 date: '2018-11-28T15:15:26+10:00'
 featured: true
 draft: false
-weight: 2
+weight: 1
 ---
 We offer multiple ways to invest including fixed no risk limited returns as well as variable returns through profit sharing.  These investments options listed below are only available to accredited investors. Any investor wanting to invest with us will have to verify their accreditation investor status every year through third party. The cost of the accreditation is $50/year. However investors who stay invested with us get a refund of this accreditation fee.
 
