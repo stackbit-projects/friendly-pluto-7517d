@@ -3,7 +3,7 @@ date: '2018-11-28T15:14:39+10:00'
 featured: true
 draft: false
 weight: 2
-title: Preferred Stock
+title: Investment Pathways
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
