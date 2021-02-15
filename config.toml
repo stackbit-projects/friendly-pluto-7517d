@@ -30,9 +30,6 @@ google_tag_manager_id = ""
   copyright_text = "All copyrights reserved 2021"
 
 [[menu.main]]
-name = "Team"
-url = "/team/"
-weight = 2
 
 [[menu.main]]
 identifier = "lorem-ipsum"
