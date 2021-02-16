@@ -10,7 +10,7 @@ This pages lists all our investments and trades. The data shows all trades witho
 DISCLAIMER: Option trading is extremely risky with the possibility of total capital loss. That is why our strategies are only available to accredited investors who are willing to take the risk for the corresponding returns 
 
 # Options Investments
-iframe src="https://mmavif.deta.dev/static/test.html"]
+{{iframe src="https://mmavif.deta.dev/static/test.html"]
 ## Crypto Investments
 
 # Stock Investments
