@@ -12,7 +12,7 @@
   </div>
 </div>
 {{ end }}
-{{partial "iframe.html"}}
+{{partial "iframe.html" .}}
 {{ define "footer_js" }}
 {{ $library := resources.Get "js/libs/library.js" }}
 {{ $services := resources.Get "js/pages/services.js" }}
